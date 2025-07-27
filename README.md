@@ -46,6 +46,7 @@ This project implements a simple **fully connected neural network** to classify 
 - Test Accuracy: ~89%
 - Layers: 1 hidden layer
 - Tools: `numpy`, `sklearn` for dataset only
+![PModel preditions](https://github.com/sejal-ml/MNIST-from-scratch/blob/main/download%20(2).png)
 
 
 ## How to Run
