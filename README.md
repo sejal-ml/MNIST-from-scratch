@@ -50,12 +50,12 @@ This project implements a simple **fully connected neural network** to classify 
 
 ## How to Run
 
-# 1. Clone this repo
-git clone [MNIST-from-scratch](https://github.com/sejal-ml/MNIST-from-scratch.git)
-cd MNIST-from-scratch
+1. Clone this repo
+- git clone [MNIST-from-scratch](https://github.com/sejal-ml/MNIST-from-scratch.git)
+- cd MNIST-from-scratch
 
-# 2. Install dependencies
-pip install numpy scikit-learn matplotlib
+2. Install dependencies
+- pip install numpy scikit-learn matplotlib
 
-# 3. Run the notebook
-jupyter notebook [MNIST.ipynb](https://github.com/sejal-ml/MNIST.ipynb)
+3. Run the notebook
+- jupyter notebook [MNIST.ipynb](https://github.com/sejal-ml/MNIST.ipynb)
