@@ -50,7 +50,6 @@ This project implements a simple **fully connected neural network** to classify 
 
 ## How to Run
 
-```bash
 # 1. Clone this repo
 git clone [MNIST-from-scratch](https://github.com/sejal-ml/MNIST-from-scratch.git)
 cd MNIST-from-scratch
